@@ -1,0 +1,14 @@
+main{
+padding-top: 120px;   }
+
+   form{
+    width:350px;
+    margin-bottom:10px;
+   }
+   ul{
+    margin-bottom:0px;
+   }
+   #completedTasklist .content{
+    color:grey;
+    text-decoration:line-through;
+   }
